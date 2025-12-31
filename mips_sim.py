@@ -9,7 +9,7 @@ Author: Amarendra Mishra
 """
 import sys
 import re
-from typing import Dict, List, Optional, Tuple
+from typing import Dict, List, Tuple
 
 
 class MIPSInterpreter:
